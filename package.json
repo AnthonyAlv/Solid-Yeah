@@ -1,0 +1,17 @@
+{
+  "name": "simple-utils",
+  "version": "0.1.0",
+  "description": "Tiny TypeScript utils: a function and a type to get you started.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "clean": "rm -rf dist",
+    "prepare": "npm run build"
+  },
+  "keywords": ["typescript", "utils", "capitalize", "maybe"],
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
