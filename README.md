@@ -1,5 +1,4 @@
-# Solid-Yeah
-# simple-utils
+# Simple-Utils
 
 Tiny TypeScript utility library with:
 - `capitalize` — capitalize a string's first letter  
